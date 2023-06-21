@@ -1,0 +1,1 @@
+l.setToolTipText("This is the annotation"); // Setting annotation for label l so that when that label will be hovered annotation will be displayed.

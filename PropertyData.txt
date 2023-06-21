@@ -1,0 +1,6 @@
+#Laptop
+#Sun Aug 28 11:09:26 IST 2022
+Brand=HP
+Processor=Ryzen 5
+OS=Windows 11
+Model=Omen

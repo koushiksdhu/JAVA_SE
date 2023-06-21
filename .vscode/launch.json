@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch AccountManagementSystem",
+            "request": "launch",
+            "mainClass": "AccountManagementSystem",
+            "projectName": "Java_2b47d32d"
+        },
+        {
+            "type": "java",
+            "name": "Launch App2",
+            "request": "launch",
+            "mainClass": "App2",
+            "projectName": "Java_2b47d32d"
+        },
+        {
+            "type": "java",
+            "name": "Launch BorderInSwing",
+            "request": "launch",
+            "mainClass": "BorderInSwing",
+            "projectName": "Java_2b47d32d"
+        },
+        {
+            "type": "java",
+            "name": "Launch DBMS2",
+            "request": "launch",
+            "mainClass": "DBMS2",
+            "projectName": "Java_2b47d32d"
+        },
+        {
+            "type": "java",
+            "name": "Launch DBMS3",
+            "request": "launch",
+            "mainClass": "DBMS3",
+            "projectName": "Java_2b47d32d"
+        },
+        {
+            "type": "java",
+            "name": "Launch DatabaseManagementSystem1",
+            "request": "launch",
+            "mainClass": "DatabaseManagementSystem1",
+            "projectName": "Java_2b47d32d"
+        },
+        {
+            "type": "java",
+            "name": "Launch FIrstApp",
+            "request": "launch",
+            "mainClass": "FIrstApp",
+            "projectName": "Java_2b47d32d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Swing2",
+            "request": "launch",
+            "mainClass": "Swing2",
+            "projectName": "Java_2b47d32d"
+        },
+        {
+            "type": "java",
+            "name": "Launch kk",
+            "request": "launch",
+            "mainClass": "kk",
+            "projectName": "Java_2b47d32d"
+        }
+    ]
+}
